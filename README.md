@@ -31,7 +31,7 @@ Rangkaian ini menghasilkan sistem pendeteksi jika ada gas lpg yang bocor sehingg
 ![WhatsApp Image 2023-04-16 at 11 42 33 (1)](https://user-images.githubusercontent.com/73802990/232265602-5619f2c2-1759-4505-8270-9f5f83eaecc2.jpeg)
 
 ## Foto Rangkaian
-![WhatsApp Image 2023-04-16 at 11 42 33 (1)](https://user-images.githubusercontent.com/73802990/232265631-c500d250-6a78-4360-b8e0-5dd767825630.jpeg)
+![WhatsApp Image 2023-04-16 at 11 42 35](https://user-images.githubusercontent.com/73802990/232265654-b3e8c08b-bf5b-4842-8230-ba71fc7f85b0.jpeg)
 
 
 
